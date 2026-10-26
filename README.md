@@ -22,6 +22,7 @@ A comprehensive, curated list of AI agents, frameworks, tools, and specialized a
 
 ## 💡 Specialized Agent Skills
 Agent skills are modular, self-contained packages that extend an agent's capabilities.
+- **[Agent Payment Node](https://github.com/nuanu-ai/agent-payment-node)** - Local payment runtime and stdio MCP tools for x402 offers, bounded payment preparation, status and receipts; Apple Silicon macOS and Node 24 only.
 - **[Autonomous Manager](https://github.com/sahprem304-tech)** - A skill for fully autonomous project management and background execution.
 - **[Credit Optimizer](https://github.com/sahprem304-tech)** - Automatically route tasks to the most cost-efficient execution path.
 - **[Automation & Scheduling](https://github.com/sahprem304-tech)** - A framework for recurring and event-triggered agent execution.
